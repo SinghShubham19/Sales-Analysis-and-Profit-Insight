@@ -54,5 +54,5 @@ The two dashboards shows all the main information about the company sales.
 
 ## Links to Tableau Public
 
-[Dashboard1](https://public.tableau.com/app/profile/shubham.singh1195/viz/SalesInsight_16763503872050/Dashboard1)
-[Dashboard2](https://public.tableau.com/app/profile/shubham.singh1195/viz/ProfitAnalysis_16764636672470/ProfitAnalysis)
+- [Dashboard1](https://public.tableau.com/app/profile/shubham.singh1195/viz/SalesInsight_16763503872050/Dashboard1)
+- [Dashboard2](https://public.tableau.com/app/profile/shubham.singh1195/viz/ProfitAnalysis_16764636672470/ProfitAnalysis)
