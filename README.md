@@ -1,4 +1,4 @@
-
+![dashboard1 jpg](https://user-images.githubusercontent.com/121576163/220355318-0c67a862-2841-4260-a9a3-526934b8809b.jpg)
 # Sales Analysis and Profit Insight
 
 A multi-tabled sales data of a company was analyzed over a period of 4 years. MySQL was used to generate primary insight about sales. I used Tableau for ETL and to generate 2 different interactive dashboards indicating profit and revenue v/s time, markets, customers, etc.
