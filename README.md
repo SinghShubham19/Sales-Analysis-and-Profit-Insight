@@ -37,9 +37,11 @@ The transaction table contains records shared with each of the pther four tables
 
 The two dashboards shows all the main information about the company sales.
 
-![Sales Analysis]![dashboard1 jpg](https://user-images.githubusercontent.com/121576163/220355318-0c67a862-2841-4260-a9a3-526934b8809b.jpg))
+### Sales Analysis
+![dashboard1 jpg](https://user-images.githubusercontent.com/121576163/220355318-0c67a862-2841-4260-a9a3-526934b8809b.jpg)
 
-![Profit Insight](![dashboard2 jpg](https://user-images.githubusercontent.com/121576163/220357111-5cdcfcb4-b4cf-4a8e-bd5a-760ba45b06f2.jpg))
+### Profit Insight
+![dashboard2 jpg](https://user-images.githubusercontent.com/121576163/220357111-5cdcfcb4-b4cf-4a8e-bd5a-760ba45b06f2.jpg)
 
 - It can be filtered by YEAR and Month. It is an interactive Dashboard i.e, each other insights are inter-related and can be seen in any respects. So the sales director can have a deeper and quick view of the sales to support his decision making process.
 ## Recommendations
