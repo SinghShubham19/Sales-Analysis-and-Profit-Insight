@@ -43,7 +43,7 @@ The two dashboards shows all the main information about the company sales.
 ### Profit Insight
 ![dashboard2 jpg](https://user-images.githubusercontent.com/121576163/220357111-5cdcfcb4-b4cf-4a8e-bd5a-760ba45b06f2.jpg)
 
-- It can be filtered by YEAR and Month. It is an interactive Dashboard i.e, each other insights are inter-related and can be seen in any respects. So the sales director can have a deeper and quick view of the sales to support his decision making process.
+- It can be filtered by YEAR and Month. It is an interactive Dashboard i.e, each insights are inter-related and filtered dynamically. Hence, the sales director can have a deeper and quick view of the sales to support his decision making process.
 ## Recommendations
 
 - Make a expansion strategy for Kanpur and Chennai since they generates the maximum profit margin despite generating lesser overall revenue.
