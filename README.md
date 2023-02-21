@@ -51,3 +51,8 @@ The two dashboards shows all the main information about the company sales.
 - Start target campagin for Prod018 and Prod016 since they two are the most revenue generating products.
 
 - Try to give special benefits to Modular and Surge stores as they are most profitable customers.
+
+## Links to Tableau Public
+
+[Dashboard1](https://public.tableau.com/app/profile/shubham.singh1195/viz/SalesInsight_16763503872050/Dashboard1)
+
