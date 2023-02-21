@@ -1,4 +1,3 @@
-![dashboard1 jpg](https://user-images.githubusercontent.com/121576163/220355318-0c67a862-2841-4260-a9a3-526934b8809b.jpg)
 # Sales Analysis and Profit Insight
 
 A multi-tabled sales data of a company was analyzed over a period of 4 years. MySQL was used to generate primary insight about sales. I used Tableau for ETL and to generate 2 different interactive dashboards indicating profit and revenue v/s time, markets, customers, etc.
@@ -34,11 +33,11 @@ The transaction table contains records shared with each of the pther four tables
 
 - The company is serving only in India, So “Paris” and “New York” in the market table are garbage values, so filtering them out.
 - The “currency” column (in transactions table) have 2 USD currency values, So created a new column called “Normalized Amount”, where all the sales_amount is in INR Currency.
-## Dashboard
+## Dashboards
 
 The two dashboards shows all the main information about the company sales.
 
-![Dashboard 1](https://github.com/SinghShubham19/Sales-Analysis-and-Profit-Insight/blob/main/Tableau%20Dashboards/Dashboard%201.jpg)
+![Dashboard 1](![dashboard1 jpg](https://user-images.githubusercontent.com/121576163/220355318-0c67a862-2841-4260-a9a3-526934b8809b.jpg))
 
 ![Dashboard 2](https://github.com/SinghShubham19/Sales-Analysis-and-Profit-Insight/blob/main/Tableau%20Dashboards/Dashboard%201.jpg)
 
